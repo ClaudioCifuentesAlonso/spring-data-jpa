@@ -1,0 +1,13 @@
+*.iml
+**/.idea
+**/.gradle
+*/target/**
+*.classpath
+*.project
+*.prefs
+*.component
+org.eclipse.wst.common.project.facet.core.xml
+.jsdtscope
+org.eclipse.wst.jsdt.ui.superType.container
+org.eclipse.wst.jsdt.ui.superType.name
+**/pom.properties

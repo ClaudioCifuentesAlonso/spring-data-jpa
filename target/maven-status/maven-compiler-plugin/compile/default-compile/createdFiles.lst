@@ -1,0 +1,4 @@
+com/claudio/spring/data/jpa/SpringDataJpaApplication.class
+com/claudio/spring/data/jpa/repository/UserRepository.class
+com/claudio/spring/data/jpa/controller/UserController.class
+com/claudio/spring/data/jpa/model/User.class
